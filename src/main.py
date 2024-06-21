@@ -20,7 +20,6 @@ def help():
     print("-Dev or -dev: Developer Mode ")
     print("-Data or -data: Data Summary")
 
-
 # TODO Warm up display
 def warm_up():
     """
