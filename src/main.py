@@ -79,7 +79,6 @@ def start():
     print("Start Protocol")
     pass
 
-
 # Main method 
 if __name__ == "__main__":
 
@@ -105,4 +104,3 @@ if __name__ == "__main__":
         start()
     
     
-
